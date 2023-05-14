@@ -1,0 +1,50 @@
+[92m05-04 06:59:56[0m Protocol 2 error (MPJPE) >> tot: 82.73
+Directions: 64.07 Discussion: 81.28 Eating: 70.45 Greeting: 70.40 Phoning: 87.45 Posing: 67.68 Purchases: 83.58 Sitting: 103.93 SittingDown: 137.62 Smoking: 81.54 Photo: 93.54 Waiting: 72.08 Walking: 61.58 WalkDog: 85.26 WalkTogether: 71.25 
+[92m05-04 07:00:39[0m Protocol 2 error (MPJPE) >> tot: 75.09
+Directions: 63.99 Discussion: 70.69 Eating: 68.02 Greeting: 69.39 Phoning: 75.61 Posing: 64.47 Purchases: 77.40 Sitting: 91.14 SittingDown: 111.47 Smoking: 72.94 Photo: 86.03 Waiting: 70.42 Walking: 59.00 WalkDog: 77.53 WalkTogether: 68.30 
+[92m05-04 07:01:24[0m Protocol 2 error (MPJPE) >> tot: 70.33
+Directions: 61.57 Discussion: 71.14 Eating: 65.01 Greeting: 66.24 Phoning: 70.47 Posing: 59.69 Purchases: 65.39 Sitting: 82.58 SittingDown: 105.56 Smoking: 68.81 Photo: 77.45 Waiting: 66.00 Walking: 53.55 WalkDog: 70.24 WalkTogether: 63.16 
+[92m05-04 07:02:01[0m Protocol 2 error (MPJPE) >> tot: 69.82
+Directions: 59.54 Discussion: 69.28 Eating: 68.79 Greeting: 66.02 Phoning: 68.73 Posing: 60.35 Purchases: 65.39 Sitting: 84.41 SittingDown: 96.41 Smoking: 69.54 Photo: 74.86 Waiting: 64.04 Walking: 57.38 WalkDog: 70.23 WalkTogether: 65.73 
+[92m05-04 07:02:45[0m Protocol 2 error (MPJPE) >> tot: 66.81
+Directions: 56.10 Discussion: 64.61 Eating: 65.66 Greeting: 62.89 Phoning: 66.79 Posing: 58.48 Purchases: 62.23 Sitting: 80.69 SittingDown: 91.63 Smoking: 67.50 Photo: 73.69 Waiting: 60.23 Walking: 55.09 WalkDog: 68.71 WalkTogether: 62.22 
+[92m05-04 07:03:34[0m Protocol 2 error (MPJPE) >> tot: 63.03
+Directions: 54.49 Discussion: 62.25 Eating: 58.28 Greeting: 60.35 Phoning: 61.36 Posing: 55.84 Purchases: 59.97 Sitting: 76.96 SittingDown: 88.13 Smoking: 61.46 Photo: 69.39 Waiting: 59.58 Walking: 51.14 WalkDog: 64.69 WalkTogether: 58.32 
+[92m05-04 07:04:15[0m Protocol 2 error (MPJPE) >> tot: 66.87
+Directions: 58.47 Discussion: 67.47 Eating: 61.48 Greeting: 62.33 Phoning: 67.59 Posing: 59.60 Purchases: 63.15 Sitting: 78.17 SittingDown: 93.63 Smoking: 66.10 Photo: 72.43 Waiting: 63.19 Walking: 53.22 WalkDog: 66.85 WalkTogether: 62.51 
+[92m05-04 07:04:59[0m Protocol 2 error (MPJPE) >> tot: 60.42
+Directions: 51.50 Discussion: 60.46 Eating: 57.50 Greeting: 55.75 Phoning: 62.01 Posing: 52.59 Purchases: 53.94 Sitting: 73.87 SittingDown: 87.14 Smoking: 60.94 Photo: 65.23 Waiting: 54.52 Walking: 45.99 WalkDog: 60.85 WalkTogether: 53.82 
+[92m05-04 07:05:41[0m Protocol 2 error (MPJPE) >> tot: 62.06
+Directions: 53.43 Discussion: 62.85 Eating: 57.58 Greeting: 57.34 Phoning: 61.83 Posing: 55.31 Purchases: 58.17 Sitting: 73.68 SittingDown: 86.97 Smoking: 61.20 Photo: 66.93 Waiting: 58.57 Walking: 47.96 WalkDog: 65.95 WalkTogether: 56.80 
+[92m05-04 07:06:28[0m Protocol 2 error (MPJPE) >> tot: 65.03
+Directions: 58.83 Discussion: 65.56 Eating: 61.82 Greeting: 61.20 Phoning: 64.29 Posing: 60.28 Purchases: 61.51 Sitting: 75.30 SittingDown: 86.57 Smoking: 63.70 Photo: 68.58 Waiting: 61.80 Walking: 53.10 WalkDog: 66.93 WalkTogether: 61.49 
+[92m05-04 07:06:57[0m Protocol 2 error (MPJPE) >> tot: 65.96
+Directions: 60.18 Discussion: 65.11 Eating: 62.67 Greeting: 62.47 Phoning: 66.17 Posing: 60.45 Purchases: 60.15 Sitting: 79.22 SittingDown: 89.06 Smoking: 64.67 Photo: 71.33 Waiting: 61.24 Walking: 51.94 WalkDog: 67.88 WalkTogether: 61.23 
+[92m05-04 07:07:22[0m Protocol 2 error (MPJPE) >> tot: 69.09
+Directions: 63.92 Discussion: 66.80 Eating: 68.98 Greeting: 65.68 Phoning: 67.38 Posing: 66.05 Purchases: 62.89 Sitting: 83.95 SittingDown: 93.48 Smoking: 67.50 Photo: 71.46 Waiting: 65.46 Walking: 53.91 WalkDog: 69.33 WalkTogether: 65.41 
+[92m05-04 07:07:47[0m Protocol 2 error (MPJPE) >> tot: 67.55
+Directions: 60.19 Discussion: 66.24 Eating: 65.23 Greeting: 63.58 Phoning: 69.77 Posing: 62.52 Purchases: 59.73 Sitting: 82.59 SittingDown: 91.04 Smoking: 66.45 Photo: 69.46 Waiting: 63.62 Walking: 54.77 WalkDog: 65.39 WalkTogether: 63.77 
+[92m05-04 07:08:12[0m Protocol 2 error (MPJPE) >> tot: 62.09
+Directions: 56.14 Discussion: 60.01 Eating: 61.78 Greeting: 59.50 Phoning: 62.41 Posing: 57.02 Purchases: 55.50 Sitting: 74.53 SittingDown: 79.76 Smoking: 62.15 Photo: 66.35 Waiting: 58.34 Walking: 50.37 WalkDog: 63.16 WalkTogether: 58.35 
+[92m05-04 07:08:37[0m Protocol 2 error (MPJPE) >> tot: 63.30
+Directions: 56.55 Discussion: 60.49 Eating: 61.23 Greeting: 59.41 Phoning: 64.26 Posing: 59.24 Purchases: 59.33 Sitting: 77.89 SittingDown: 86.03 Smoking: 62.94 Photo: 65.35 Waiting: 58.14 Walking: 50.08 WalkDog: 64.60 WalkTogether: 59.35 
+[92m05-04 07:09:02[0m Protocol 2 error (MPJPE) >> tot: 62.69
+Directions: 57.39 Discussion: 59.95 Eating: 61.14 Greeting: 59.80 Phoning: 64.75 Posing: 56.83 Purchases: 57.93 Sitting: 75.40 SittingDown: 85.46 Smoking: 62.33 Photo: 65.86 Waiting: 58.44 Walking: 47.98 WalkDog: 63.33 WalkTogether: 57.45 
+[92m05-04 07:09:27[0m Protocol 2 error (MPJPE) >> tot: 71.19
+Directions: 69.04 Discussion: 70.47 Eating: 68.97 Greeting: 69.02 Phoning: 70.28 Posing: 70.94 Purchases: 63.10 Sitting: 83.95 SittingDown: 90.89 Smoking: 68.86 Photo: 74.35 Waiting: 70.79 Walking: 57.25 WalkDog: 67.65 WalkTogether: 66.58 
+[92m05-04 07:09:52[0m Protocol 2 error (MPJPE) >> tot: 63.65
+Directions: 60.89 Discussion: 63.63 Eating: 60.58 Greeting: 62.00 Phoning: 63.46 Posing: 61.83 Purchases: 59.31 Sitting: 75.34 SittingDown: 79.64 Smoking: 61.86 Photo: 67.02 Waiting: 61.18 Walking: 50.45 WalkDog: 63.57 WalkTogether: 59.31 
+[92m05-04 07:10:16[0m Protocol 2 error (MPJPE) >> tot: 62.82
+Directions: 59.72 Discussion: 62.88 Eating: 59.06 Greeting: 60.80 Phoning: 63.47 Posing: 60.83 Purchases: 57.99 Sitting: 74.79 SittingDown: 79.29 Smoking: 61.21 Photo: 65.85 Waiting: 60.49 Walking: 49.54 WalkDog: 62.41 WalkTogether: 58.19 
+[92m05-04 07:10:41[0m Protocol 2 error (MPJPE) >> tot: 64.49
+Directions: 61.52 Discussion: 64.24 Eating: 61.02 Greeting: 62.75 Phoning: 64.99 Posing: 62.87 Purchases: 60.09 Sitting: 75.81 SittingDown: 80.03 Smoking: 63.26 Photo: 67.56 Waiting: 61.90 Walking: 51.41 WalkDog: 64.23 WalkTogether: 60.53 
+[92m05-04 07:11:06[0m Protocol 2 error (MPJPE) >> tot: 63.70
+Directions: 60.96 Discussion: 63.60 Eating: 60.64 Greeting: 62.01 Phoning: 63.75 Posing: 61.82 Purchases: 59.68 Sitting: 74.80 SittingDown: 80.19 Smoking: 62.11 Photo: 67.01 Waiting: 61.28 Walking: 50.47 WalkDog: 63.42 WalkTogether: 59.08 
+[92m05-04 07:11:30[0m Protocol 2 error (MPJPE) >> tot: 63.93
+Directions: 61.08 Discussion: 63.92 Eating: 60.64 Greeting: 62.19 Phoning: 64.43 Posing: 62.28 Purchases: 59.19 Sitting: 75.51 SittingDown: 79.52 Smoking: 62.65 Photo: 67.24 Waiting: 61.25 Walking: 50.63 WalkDog: 63.38 WalkTogether: 59.52 
+[92m05-04 07:11:55[0m Protocol 2 error (MPJPE) >> tot: 64.13
+Directions: 61.43 Discussion: 64.13 Eating: 60.67 Greeting: 62.52 Phoning: 64.58 Posing: 62.62 Purchases: 59.56 Sitting: 75.71 SittingDown: 79.90 Smoking: 62.76 Photo: 67.22 Waiting: 61.51 Walking: 50.74 WalkDog: 63.46 WalkTogether: 59.67 
+[92m05-04 07:12:20[0m Protocol 2 error (MPJPE) >> tot: 63.93
+Directions: 61.29 Discussion: 63.86 Eating: 60.48 Greeting: 62.37 Phoning: 64.28 Posing: 62.27 Purchases: 59.26 Sitting: 75.52 SittingDown: 79.44 Smoking: 62.66 Photo: 67.27 Waiting: 61.14 Walking: 50.61 WalkDog: 63.55 WalkTogether: 59.53 
+[92m05-04 07:12:44[0m Protocol 2 error (MPJPE) >> tot: 63.83
+Directions: 61.06 Discussion: 63.69 Eating: 60.36 Greeting: 62.20 Phoning: 64.37 Posing: 62.14 Purchases: 59.17 Sitting: 75.50 SittingDown: 79.36 Smoking: 62.51 Photo: 67.26 Waiting: 61.06 Walking: 50.51 WalkDog: 63.46 WalkTogether: 59.33 
